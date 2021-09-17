@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Esther";
+  src: url("fonts/Esther.otf");
+}
+
+body {
+  font-family: "Esther";
+  background-color: black;
+}
