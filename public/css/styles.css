@@ -44,7 +44,12 @@ h2 {
 }
 
 .nav-btn {
+  border-radius: 0;
   background-color: #362213;
+  color: white;
+  font-size: 20px;
+}
+.nav-btn:hover {
   color: white;
 }
 
