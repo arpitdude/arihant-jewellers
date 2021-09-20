@@ -2,6 +2,11 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   background-color: #F9F9F9;
+  color: #362213;
+}
+
+.light {
+  color: #5A514A;
 }
 
 section {
@@ -64,10 +69,16 @@ h2 {
   background-color: white;
   color: #362213;
   border: 1px solid #362213;
+  border-radius: 0;
+  font-size: 20px;
 }
 .hero-btn:hover {
   background-color: #362213;
   color: white;
+}
+
+.hero-marg {
+  margin-bottom: 4%;
 }
 
 .items {
