@@ -107,3 +107,7 @@ h2 {
 .foot {
   background-color: #FCE9DB;
 }
+p{
+  margin-top: -5rem !important;
+  margin-bottom: 1rem;
+}
