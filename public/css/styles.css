@@ -31,6 +31,18 @@ h2 {
   margin-bottom: 4%;
 }
 
+.nav-item1 {
+  padding-right: 8rem !important;
+}
+
+.nav-item2 {
+  padding: auto 4rem !important;
+}
+
+.nav-item3 {
+  padding-left: 8rem !important;
+}
+
 .nav-btn {
   background-color: #362213;
   color: white;
