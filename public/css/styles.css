@@ -25,12 +25,9 @@ h2 {
 .est {
   font-family: "Esther";
 }
-
-.head {
+.head{
+  margin-bottom: 4%;
   text-align: center;
-  margin-bottom: 80px;
-  margin-top: 150px;
-  
 }
 
 .nav-btn {
@@ -64,47 +61,5 @@ h2 {
   bottom: 25%;
   left: 0;
   width: 80%;
-}
-.nav-sp{
-margin: 30px 60px 31px 60px  ;
-size: 15px;
-}
-.nav-spa{
-  margin: 30px 0 31px 203px ;
-  size: 15px;
-}
-.nav-sph{
-  margin: 30px 218px 31px 0;
-  size: 15px;
-}
-.nav-contact{
-  height: 52px;
-width: 166px;
-left: 1104px;
-top: 14px;
-border-radius: 0px;
-padding: 15px, 24px, 15px, 24px;
-
-}
-.logo{
-  height: 45.73655700683594px;
-width: 57.41397476196289px;
-left: 0px;
-top: 0px;
-border-radius: 0px;
-
-}
-.shop{
-  height: 243px;
-width: 1100px;
-left: 170px;
-top: 171px;
-right:170px;
-border-radius: [object Object]px;
-
-}
-.pro{
- align-items: center;
- 
 }
 
