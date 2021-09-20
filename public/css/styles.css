@@ -96,6 +96,11 @@ h2 {
   width: 80%;
 }
 
+.cat-text {
+  margin-top: -5rem !important;
+  margin-bottom: 1rem;
+}
+
 .prom {
   margin-bottom: 8%;
 }
@@ -106,8 +111,4 @@ h2 {
 
 .foot {
   background-color: #FCE9DB;
-}
-p{
-  margin-top: -5rem !important;
-  margin-bottom: 1rem;
 }
